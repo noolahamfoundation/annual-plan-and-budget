@@ -1,1 +1,1 @@
-இங்கே  நூலக நிறுவனத்தின் ஆண்டுத் திட்டமிடல், வரவுசெலவை (Annual Plan and Budget) தொடர்பான தகவல்களை நீங்கள் பெற முடியும்.  மேலதிக விபரங்களுக்கு இந்தக் களஞ்சியத்தின் [விக்கியைப்](https://github.com/noolahamfoundation/annual-plan-and-budget/wiki) பார்க்கவும்.
+இங்கே  நூலக நிறுவனத்தின் ஆண்டுத் திட்டமிடல், வரவுசெலவு (Annual Plan and Budget) தொடர்பான தகவல்களை நீங்கள் பெற முடியும்.  மேலதிக விபரங்களுக்கு இந்தக் களஞ்சியத்தின் [விக்கியைப்](https://github.com/noolahamfoundation/annual-plan-and-budget/wiki) பார்க்கவும்.
